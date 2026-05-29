@@ -21,6 +21,11 @@ ClickCapture is a lightweight resident utility for Windows that automatically ca
 3. Toggle the capture function ON/OFF instantly at any time by pressing the `F9` key.
 4. Images will be saved in the `Capture` folder within the same directory.
 
+### Editions & Licensing
+- **Free Edition**: Available for free. There is no functional difference from the Pro Edition.
+- **Pro Edition**: Activated by purchasing a paid license key.
+- **Important**: Usage of the Free Edition is restricted on domain-joined PCs (such as corporate PCs). A Pro Edition license is mandatory for these environments.
+
 ### Terms & Disclaimer
 - **License**: Provided as Free and Pro Editions. Secondary distribution is prohibited.
 - **Data Privacy**: No external transmission of captured data (excluding license validation).
@@ -56,6 +61,11 @@ ClickCapture（クリック・キャプチャ）は、マウスの「左クリ�
 2. キャプチャモード（**アクティブウィンドウのみ** / **フルスクリーン**）を選択します。
 3. `F9` キーを押すだけで、いつでも即座にキャプチャ機能のON/OFFを切り替えられます。
 4. キャプチャされた画像は、実行ファイルと同じ場所にある `Capture` フォルダに自動保存されます。
+
+### エディションとライセンス
+- **Free Edition**: 無料で利用可能。Pro版との機能差はありません。
+- **Pro Edition**: 有料ライセンスキーの購入・認証が必要です。
+- **重要**: ドメイン参加PC（企業PCなど）でのFree Editionの利用は制限されているため、Pro Editionライセンスの購入が必須となります。
 
 ### 利用規約・免責事項
 - **ライセンス**: Free Edition および Pro Edition として提供。二次配布は原則禁止します。
