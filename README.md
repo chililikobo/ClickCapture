@@ -1,5 +1,11 @@
 # ClickCapture
 
+![Latest Release](https://img.shields.io/github/v/release/chililikobo/ClickCapture?color=blue)
+![Downloads](https://img.shields.io/github/downloads/chililikobo/ClickCapture/total?color=228b22)
+![License](https://img.shields.io/badge/license-Freeware-blueviolet.svg)
+![Commercial](https://img.shields.io/badge/license-Commercial--use%20restricted-orange.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+
 [English](#english) | [日本語](#日本語)
 
 ---
