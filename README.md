@@ -4,7 +4,8 @@
 ![Downloads](https://img.shields.io/github/downloads/chililikobo/ClickCapture/total?color=228b22)
 ![License](https://img.shields.io/badge/license-Freeware-blueviolet.svg)
 ![Commercial](https://img.shields.io/badge/license-Commercial--use%20restricted-orange.svg)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+![Windows 11](https://img.shields.io/badge/platform-Windows%2011-333333.svg)
+![Windows Server 2025](https://img.shields.io/badge/platform-Windows%20Server%202025-333333.svg)
 
 [English](#english) | [日本語](#日本語)
 
