@@ -46,7 +46,7 @@ ClickCapture is a lightweight resident utility for Windows that automatically ca
 
 ### Links & Contact
 - **Developer**: chilili kobo
-- **Website**: [https://chililikobo.github.io/](https://chililikobo.github.io/)
+- **Website**: [https://chililikobo.github.io/en/](https://chililikobo.github.io/en/)
 - **X (Twitter)**: [@chililikobo](https://x.com/chililikobo)
 - **Email**: chilili.kobo@gmail.com
 
