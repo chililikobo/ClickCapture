@@ -1,11 +1,9 @@
 # ClickCapture
 
-![Latest Release](https://img.shields.io/github/v/release/chililikobo/ClickCapture?color=blue)
-![Downloads](https://img.shields.io/github/downloads/chililikobo/ClickCapture/total?color=228b22)
-![License](https://img.shields.io/badge/license-Freeware-blueviolet.svg)
-![Commercial](https://img.shields.io/badge/license-Commercial--use%20restricted-orange.svg)
-![Windows 11](https://img.shields.io/badge/platform-Windows%2011-333333.svg)
-![Windows Server 2025](https://img.shields.io/badge/platform-Windows%20Server%202025-333333.svg)
+![Latest Release](https://badgen.net/github/release/chililikobo/ClickCapture?color=blue)
+![Downloads](https://badgen.net/github/assets-dl/chililikobo/ClickCapture?color=228b22)
+![License](https://badgen.net/badge/license/Free%20%2F%20Commercial/purple)
+![Platform](https://badgen.net/badge/platform/Windows%2011%20%2F%20Server%202025/black)
 
 [English](#english) | [日本語](#日本語)
 
