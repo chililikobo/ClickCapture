@@ -3,7 +3,7 @@
 [![Latest Release](https://badgen.net/github/release/chililikobo/ClickCapture)](https://github.com/chililikobo/ClickCapture/releases/latest)
 [![Downloads](https://badgen.net/github/assets-dl/chililikobo/ClickCapture)](https://github.com/chililikobo/ClickCapture/releases/latest)
 [![License](https://badgen.net/badge/license/Free%20%2F%20Commercial/purple)](#editions--licensing)
-[![Platform](https://badgen.net/badge/platform/Windows%2011%20%2F%20Server%202025/black)](https://chililikobo.github.io/clickcapture.html)
+[![Platform](https://badgen.net/badge/platform/Windows%2011%20%2F%20Server%202025/black)](https://chililikobo.github.io/en/clickcapture.html)
 
 [English](#english) | [日本語](#日本語)
 
