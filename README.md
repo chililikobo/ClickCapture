@@ -16,14 +16,15 @@ ClickCapture is a lightweight resident utility for Windows that automatically ca
 ### Key Features
 - **Automatic Capture Linked to Left-Clicks**: Detects left mouse clicks and automatically saves images.
 - **Capture Modes**: Select between **Active Window Only** or **Entire Screen**.
+- **Rectangular Area Capture**: Capture a specific rectangular area by dragging the mouse while holding down the **Ctrl** key.
 - **Skip Duplicate Images**: Skips saving if there is no change on the screen, preventing folder clutter.
 - **Start minimized with Windows**: Can be configured to run automatically in the background when the OS boots.
 - **Native AOT Compiled**: Designed to run standalone with no external dependencies (no .NET runtime required).
 
 ### Quick Start
 1. Place `ClickCapture.exe` in any folder and run it.
-2. Select your preferred capture mode (**Active Window Only** / **Entire Screen**).
-3. Toggle capture ON/OFF at any time using your preferred hotkey (**F8** or **F9**).
+2. Select your preferred Capture Target Area. You can toggle capture ON/OFF at any time using the hotkey (**F8** or **F9**).
+3. With the capture function ON, left-clicking saves an image. You can also capture a specific rectangular area by dragging the mouse while holding down the **Ctrl** key.
 4. Images will be saved in the `Capture` folder created in the same directory.
 
 ### Editions & Licensing
@@ -39,8 +40,8 @@ ClickCapture is a lightweight resident utility for Windows that automatically ca
 ### Credits (External Libraries)
 - Avalonia UI Framework (MIT License)
 - Avalonia.Fonts.Inter (MIT License)
+- Avalonia.Themes.Fluent (MIT License)
 - CommunityToolkit.Mvvm (MIT License)
-- FluentAvaloniaUI (MIT License)
 
 ### Links & Contact
 - **Developer**: chilili kobo
@@ -57,14 +58,15 @@ ClickCapture（クリック・キャプチャ）は、マウスの「左クリ�
 ### 主な機能
 - **左クリック連動の自動キャプチャ**: マウスの左クリックを検知し、自動的に画面を画像として保存します。
 - **キャプチャモード**: **アクティブウィンドウのみ（Active Window Only）**、または**フルスクリーン（Entire Screen）** から選択可能。
+- **矩形範囲キャプチャ**: **Ctrl** キーを押しながらマウスでドラッグすることで、任意の矩形範囲を切り取ってキャプチャできます。
 - **重複画像のスキップ**: 画面に変化がない場合は保存をスキップし、不要な画像でフォルダが溢れるのを防ぎます。
 - **Windows起動時に常駐させる（Start minimized with Windows）**: OS起動時にバックグラウンドで自動起動させることができます。
 - **Native AOT コンパイル**: 単体動作するように設計されており、.NETランタイムなどの追加インストールは不要です。
 
 ### 使い方
 1. 任意のフォルダに `ClickCapture.exe` を配置して起動します。
-2. 好みのキャプチャモード（**アクティブウィンドウのみ** / **フルスクリーン**）を選択します。
-3. ホットキー（**F8** または **F9**）を押すだけで、いつでも即座にキャプチャ機能のON/OFFを切り替えられます。
+2. 好みのキャプチャ対象エリアを選択します。ホットキー（**F8** または **F9**）を押すだけで、いつでも即座にキャプチャ機能のON/OFFを切り替えられます。
+3. キャプチャ機能がONの状態で左クリックを行うと画像が保存されます。また、**Ctrl** キーを押しながらマウスでドラッグすると、指定した矩形範囲を切り取ってキャプチャできます。
 4. 画像は、実行ファイルと同じ場所にある `Capture` フォルダに自動作成・保存されます。
 
 ### エディションとライセンス
@@ -80,8 +82,8 @@ ClickCapture（クリック・キャプチャ）は、マウスの「左クリ�
 ### 外部ライブラリ（クレジット）
 - Avalonia UI Framework (MIT License)
 - Avalonia.Fonts.Inter (MIT License)
+- Avalonia.Themes.Fluent (MIT License)
 - CommunityToolkit.Mvvm (MIT License)
-- FluentAvaloniaUI (MIT License)
 
 ### リンク・連絡先
 - **制作者**: chilili kobo
