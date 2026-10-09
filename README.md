@@ -13,6 +13,8 @@
 
 ClickCapture is a lightweight resident utility for Windows that automatically captures and saves screenshots in conjunction with left-click mouse operations. It allows you to effortlessly record your operational workflow as images.
 
+![ClickCapture Demo](https://chililikobo.github.io/img/ClickCapture_ani.gif)
+
 ### Key Features
 - **Automatic Capture Linked to Left-Clicks**: Detects left mouse clicks and automatically saves images.
 - **Capture Modes**: Select between **Active Window Only** or **Entire Screen**.
