@@ -23,6 +23,12 @@ ClickCapture is a lightweight resident utility for Windows that automatically ca
 - **Start minimized with Windows**: Can be configured to run automatically in the background when the OS boots.
 - **Native AOT Compiled**: Designed to run standalone with no external dependencies (no .NET runtime required).
 
+### 💡 The 2-Minute AI Documentation Workflow
+Stop wasting hours organizing screenshots and writing guides manually. Combine ClickCapture with any multimodal AI to automate your entire documentation pipeline:
+1. Run ClickCapture and click through your software installer or setup flow.
+2. Feed all auto-captured screenshots directly into any AI assistant.
+3. Ask AI: *"Generate a step-by-step setup manual with parameter tables based on these images."* -> **Done in under 2 minutes!**
+
 ### Quick Start
 1. Place `ClickCapture.exe` in any folder and run it.
 2. Select your preferred Capture Target Area. You can toggle capture ON/OFF at any time using the hotkey (**F8** or **F9**).
@@ -64,6 +70,12 @@ ClickCapture（クリック・キャプチャ）は、マウスの「左クリ�
 - **重複画像のスキップ**: 画面に変化がない場合は保存をスキップし、不要な画像でフォルダが溢れるのを防ぎます。
 - **Windows起動時に常駐させる（Start minimized with Windows）**: OS起動時にバックグラウンドで自動起動させることができます。
 - **Native AOT コンパイル**: 単体動作するように設計されており、.NETランタイムなどの追加インストールは不要です。
+
+### 💡 2分で終わるAIドキュメント作成ワークフロー
+スクショの整理や手動での手順書作成に何時間も費やす必要はありません。ClickCaptureと任意のマルチモーダルAIを組み合わせることで、ドキュメント作成の全工程を劇的に効率化できます：
+1. ClickCaptureを起動し、インストーラーやセットアップ手順をポチポチ操作して進める。
+2. 自動保存されたスクリーンショット群をそのまま任意のAIに投入する。
+3. AIに指示する：*「これらの画像をもとに、パラメータ表付きのステップバイステップのセットアップ手順書を作成して」* -> **たった2分足らずで完了！**
 
 ### 使い方
 1. 任意のフォルダに `ClickCapture.exe` を配置して起動します。
