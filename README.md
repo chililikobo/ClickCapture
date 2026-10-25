@@ -51,6 +51,8 @@ Stop wasting hours organizing screenshots and writing guides manually. Combine C
 - Avalonia.Themes.Fluent (MIT License)
 - CommunityToolkit.Mvvm (MIT License)
 
+For full license texts and copyright notices, please see [ThirdPartyNotices.md](ThirdPartyNotices.md).
+
 ### Links & Contact
 - **Developer**: chilili kobo
 - **Website**: [https://chililikobo.github.io/en/](https://chililikobo.github.io/en/)
@@ -98,6 +100,8 @@ ClickCapture（クリック・キャプチャ）は、マウスの「左クリ�
 - Avalonia.Fonts.Inter (MIT License)
 - Avalonia.Themes.Fluent (MIT License)
 - CommunityToolkit.Mvvm (MIT License)
+
+各ライブラリの著作権表示およびライセンス条文全文については、[ThirdPartyNotices.md](ThirdPartyNotices.md) をご確認ください。
 
 ### リンク・連絡先
 - **制作者**: chilili kobo
