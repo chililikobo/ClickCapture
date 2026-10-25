@@ -46,12 +46,7 @@ Stop wasting hours organizing screenshots and writing guides manually. Combine C
 - **Warranty**: Provided "As-Is". The author assumes no responsibility for any damages resulting from the use of this software.
 
 ### Credits (External Libraries)
-- Avalonia UI Framework (MIT License)
-- Avalonia.Fonts.Inter (MIT License)
-- Avalonia.Themes.Fluent (MIT License)
-- CommunityToolkit.Mvvm (MIT License)
-
-For full license texts and copyright notices, please see [ThirdPartyNotices.md](ThirdPartyNotices.md).
+This application incorporates open-source components. For detailed copyright notices and license agreements, refer to [ThirdPartyNotices.md](ThirdPartyNotices.md).
 
 ### Links & Contact
 - **Developer**: chilili kobo
@@ -96,12 +91,7 @@ ClickCapture（クリック・キャプチャ）は、マウスの「左クリ�
 - **免責事項**: 本ソフトウェアは「現状有姿（As-Is）」で提供され、使用により生じた一切の損害について作者は責任を負いません。
 
 ### 外部ライブラリ（クレジット）
-- Avalonia UI Framework (MIT License)
-- Avalonia.Fonts.Inter (MIT License)
-- Avalonia.Themes.Fluent (MIT License)
-- CommunityToolkit.Mvvm (MIT License)
-
-各ライブラリの著作権表示およびライセンス条文全文については、[ThirdPartyNotices.md](ThirdPartyNotices.md) をご確認ください。
+本ソフトウェアはオープンソースコンポーネントを使用しています。各コンポーネントの著作権表示およびライセンス条文の詳細は [ThirdPartyNotices.md](ThirdPartyNotices.md) をご参照ください。
 
 ### リンク・連絡先
 - **制作者**: chilili kobo
