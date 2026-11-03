@@ -38,7 +38,7 @@ Stop wasting hours organizing screenshots and writing guides manually. Combine C
 ### Editions & Licensing
 - **Free Edition**: Available for free. There is no functional difference from the Pro Edition.
 - **Pro Edition**: Activated by purchasing a paid license key.
-- **Important**: Usage of the Free Edition is restricted on domain-joined PCs (such as corporate PCs). A Pro Edition license is mandatory for these environments.
+- **Important**: On domain-joined PCs (such as corporate PCs), the Free Edition is limited to a trial of 20 captures per session (resets upon restarting the app). A Pro Edition license is required for continuous unlimited usage.
 
 ### Terms & Disclaimer
 - **License**: Provided as Free and Pro Editions. Secondary distribution is prohibited.
@@ -83,7 +83,7 @@ ClickCapture（クリック・キャプチャ）は、マウスの「左クリ�
 ### エディションとライセンス
 - **Free Edition**: 無料で利用可能。Pro版との機能差はありません。
 - **Pro Edition**: 有料ライセンスキーの購入・認証が必要です。
-- **重要**: ドメイン参加PC（企業PCなど）でのFree Editionの利用は制限されているため、Pro Editionライセンスの購入が必須となります。
+- **重要**: ドメイン参加PC（企業PCなど）では、Free Editionは1セッションにつき20枚までの無料お試し制限が適用されます（アプリ再起動で再度試用可能）。継続して無制限に利用するにはPro Editionライセンスの購入・認証が必要です。
 
 ### 利用規約・免責事項
 - **ライセンス**: Free Edition および Pro Edition として提供。二次配布は原則禁止します。
